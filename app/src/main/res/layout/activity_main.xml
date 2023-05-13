@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center_horizontal"
     android:background="@color/aliceblue"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity" >
 
     <TextView
         android:id="@+id/headText"
